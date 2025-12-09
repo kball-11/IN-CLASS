@@ -1,0 +1,18 @@
+body{
+    background-color: gray;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+    font-size: 72px;
+    font-weight : bold;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+li{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
